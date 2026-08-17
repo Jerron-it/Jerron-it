@@ -9,5 +9,5 @@
 
 [<img align="left" alt="Jerron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: "https://linkedin.com/in/jerron-lackey-bb2588419
+[linkedin]: href="https://linkedin.com/in/jerron-lackey-bb2588419
 
