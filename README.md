@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Ticketing System)</b>
-  - [Active Directory Home Lab](https://github.com/jerron-it/Algorithms-Practice)
+  - [osTicket Lifecycle](https://github.com/Jerron-it/ticket-lifecycle)
     
 
 <h2> 🤳 Connect with me:</h2>
