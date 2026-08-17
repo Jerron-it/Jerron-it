@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jerron, an <a href="linkedin.com/in/jerron-lackey">IT Professional</a></h1><br/><a 
+<h1>Hi, I'm Jerron, an <a href="https://linkedin.com/in/jerron-lackey">IT Professional</a></h1><br/><a 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
