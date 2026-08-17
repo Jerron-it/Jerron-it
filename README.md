@@ -1,9 +1,9 @@
-<h1>Hi, I'm Jerron! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Jerron, an <a href="linkedin.com/in/jerron-lackey-bb2588419">IT Professional</a></h1><br/><a 
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
+
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-
 
 <h2> 🤳 Connect with me:</h2>
 
