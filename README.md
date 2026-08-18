@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Ticketing System)</b>
-  - [osTicket Lifecycle](https://github.com/Jerron-it/ticket-lifecycle)
+  - [osTicket Setup](https://github.com/Jerron-it/osTicket-setup)
     
 
 <h2> 🤳 Connect with me:</h2>
